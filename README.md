@@ -1,8 +1,10 @@
 Intro:
 The Capstone Project is my final assignment with the IBM Professional Data Analyst course.
 The project will culminate with a presentation of my data analysis report for various stakeholders in the organization. The report will include an executive summary, my analysis, and a conclusion. 
-In this project, I am an Associate Data Analyst who has recently joined the organization and am presented with a business challenge that requires data analysis to be performed on real-world datasets.  
+In this project, I am an Associate Data Analyst who has recently joined the organisation and am presented with a business challenge that requires data analysis to be performed on real-world datasets analysis.  
 
+The survey dataset is taken from Stack Overflow's open source.
+In 2019, Stack Overflow had conducted an online survey of software professionals across the world. My goal is to visualise and identify the trend of programming languages & desired databases through the results.
 
 In the Capstone Project,I have performed various tasks that include: 
 - Data collection from multiple sources 
